@@ -1,0 +1,15 @@
+# No subir datasets
+data/images/
+data/images_preprocessed/
+data/images_indv/
+
+# No subir modelos pesados
+models/*.pth
+
+# No subir entornos
+env/
+venv/
+
+# Caches
+__pycache__/
+*.pyc
